@@ -28,6 +28,10 @@ chmod +x * && ./install.sh
 
 <br>
 
+![alt text](https://github.com/ghoste9624/OPS/blob/main/files%2FScreenshot_20250610-222955_Termux.jpg)
+
+<br>
+
 # Updated On 
 
 ``
