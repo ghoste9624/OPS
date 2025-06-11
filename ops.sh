@@ -402,8 +402,8 @@ while true; do
             echo ""
             echo "  [*]  Set Cookies - Headers "
             echo ""
-            read -p "[Domain] [URL]: " domain
-            set_cookie "$domain"
+            read -p "[Domain] [URL]: " url
+            set_cookie "$url"
             echo ""
             read -p "  Press Enter to continue..."
             echo ""
