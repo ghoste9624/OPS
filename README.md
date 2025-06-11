@@ -35,7 +35,7 @@ chmod +x * && ./install.sh
 # Updated On 
 
 ``
-June 10, 2025  21:00
+June 11, 2025  1:00
 ``
 
 <br>
